@@ -1,16 +1,23 @@
-## Hi there 👋
+# Aitor Blanco
 
-<!--
-**TonyWhite86/TonyWhite86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Ocupación y Áreas de Expertise
 
-Here are some ideas to get you started:
+Actualmente en búsqueda activa de empleo. Soy **Ingeniero** con un **Grado Superior en Automatización y Robótica** y actualmente me encuentro ampliando mis conocimientos en **Programación en Python** y tomando cursos sobre **Ciberseguridad**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades Principales
+
+- **Automatización y Robótica**
+- **Programación en Python**
+- **Ciberseguridad**
+- **Resolución de problemas y mejora de procesos**
+
+## 📂 Actividad en GitHub
+
+Estoy subiendo ejercicios de **lógica de programación** que realizo para mejorar mis habilidades y desarrollar mi portfolio. Estos ejercicios están enfocados en resolver problemas complejos, lo que me ayuda a fortalecer mis capacidades de programación.
+
+## 📫 Forma de Contacto
+
+Puedes contactarme por **email**, que está disponible en mi perfil de GitHub.
+
+---
+
