@@ -2,12 +2,13 @@
 
 ## 👨‍💻 Ocupación y Áreas de Expertise
 
-Actualmente en búsqueda activa de empleo. Soy **Ingeniero** con un **Grado Superior en Automatización y Robótica** y actualmente me encuentro ampliando mis conocimientos en **Programación en Python** y tomando cursos sobre **Ciberseguridad**.
+Actualmente en búsqueda activa de empleo. Soy **Ingeniero** con un **Grado Superior en Automatización y Robótica** y actualmente me encuentro ampliando mis conocimientos en **Programación en Python y Swift** y tomando cursos sobre **Ciberseguridad**.
 
 ## 🛠️ Habilidades Principales
 
 - **Automatización y Robótica**
 - **Programación en Python**
+- **Programación en Swift**
 - **Ciberseguridad**
 - **Resolución de problemas y mejora de procesos**
 
